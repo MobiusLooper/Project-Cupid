@@ -1,5 +1,6 @@
 # Project Cupid - Speed Dating Prediction Model
 `Authors = ['Joshua Cooper', 'Omar Ahmed']`
+
 `Data source =`  https://www.kaggle.com/annavictoria/speed-dating-experiment
 
 <img width="200" height="200" src="https://storybookstorage.s3.amazonaws.com/items/images/000/353/403/original/20160422-9-1ijhw0.png">
